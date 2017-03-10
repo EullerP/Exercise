@@ -1,2 +1,2 @@
 # Exercise
-aqui estao exercicios que fiz ao longo de meu aprenzido 
+Aqui estão exercicios que fiz ao longo de meu aprendiziado. 
